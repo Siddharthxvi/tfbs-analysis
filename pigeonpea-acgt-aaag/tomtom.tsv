@@ -1,0 +1,5 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+
+# Tomtom (Motif Comparison Tool): Version 5.5.8 compiled on May 16 2025 at 08:52:16
+# The format of this file is described at http://localhost:8080/meme_5.5.8/doc/tomtom-output-format.html.
+# tomtom -oc tomtom_out -dist pearson -thresh 0.2 meme_out/meme.txt databases/JASPAR_plants.txt
